@@ -9,7 +9,7 @@ From this I concluded that while there is a correlation, it is not the only fact
 ## Data
 The dataset is the UFC-Fight Historical Data from 1993-2001 by Rajeev Warrier via [Kaggle](https://www.kaggle.com/datasets/rajeevw/ufcdata/data), accessed on December 26th, 2023. <br/>
 <br/>
-This data set includes each match as an individual row, with both fighters' statistics (age at time of fight, current win streak, height, weight, significant strike attempts, etc.) There were multiple versions of the data as well, including a raw version from the scraper.<br/>
+This data set only has fights from 1994 to March 2021. It includes each match as an individual row, with both fighters' statistics (age at time of fight, current win streak, height, weight, significant strike attempts, etc.) There were multiple versions of the data as well, including a raw version from the scraper.<br/>
 <br/>
 Geospatial analysis was conducted in Python using the world-countries.json by Kostya via [Kaggle](https://www.kaggle.com/datasets/ktochylin/world-countries). <br/>
 <br/>
